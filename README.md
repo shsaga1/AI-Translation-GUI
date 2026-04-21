@@ -2,6 +2,8 @@
 
 一个本地翻译GUI，利用本地部署的ai翻译模型进行多种翻译。提供可视化界面、术语表导入、保留词规则、全文一致性记忆。
 
+A native translation GUI that utilizes a locally deployed AI translation model for various translations. It provides a visual interface, terminology import, word retention rules, and full-text consistency memory.
+
 本项目大量使用ai代码，在翻译细节改进部分进行过大规模的ai代码重构，应该不会有屎山堆积的情况
 
 > 此项目重点放在 **视频 / 文件翻译** 场景，尤其优化了 EPUB 的翻译。剩下的部分(网页/文本)现有的浏览器自动翻译功能和翻译软件做的已十分成熟，因此只做了最简单的功能
