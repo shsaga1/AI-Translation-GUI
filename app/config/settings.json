@@ -1,0 +1,36 @@
+{
+  "model_root": "D:\\AI\\Translation\\Model",
+  "last_input_file": "",
+  "last_output_dir": "",
+  "source_language": "auto",
+  "target_language": "zh",
+  "context_level_name": "标准上下文（中等）",
+  "context_window": 2,
+  "compute_precision": "auto",
+  "device": "auto",
+  "beam_size": "1",
+  "temperature": "0.0",
+  "keep_original": true,
+  "auto_open_output": true,
+  "auto_review": true,
+  "last_asr_model": "faster-whisper-large-v3",
+  "last_mt_model": "nllb-200-distilled-600M",
+  "translation": {
+    "source_lang": "en",
+    "target_lang": "zh",
+    "min_chunk_length": 80,
+    "max_chunk_length": 600
+  },
+  "quality": {
+    "enable_glossary": true,
+    "enable_preserve_rules": true,
+    "enable_consistency": true,
+    "enable_auto_review": true
+  },
+  "paths": {
+    "default_glossary_path": "data/glossary.csv",
+    "user_glossary_path": "data/user_glossary.csv",
+    "preserve_patterns_path": "data/preserve_patterns.json",
+    "consistency_memory_path": "data/consistency_memory.json"
+  }
+}
