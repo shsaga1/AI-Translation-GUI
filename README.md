@@ -11,7 +11,7 @@
 
 链接: https://pan.baidu.com/s/11rjCTplMD7rhMEg85rmIHg?pwd=uysu 提取码: uysu 
 
-
+链接：https://drive.google.com/file/d/1cg0EJw08vHx1N16tOmr0eCCxyT-bIYJ6/view?usp=drive_link
 
 A native translation GUI that utilizes a locally deployed AI translation model for various translations. It provides a visual interface, terminology import, word retention rules, and full-text consistency memory.
 
