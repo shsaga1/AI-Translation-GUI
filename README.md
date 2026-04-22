@@ -2,6 +2,17 @@
 
 一个本地翻译GUI，利用本地部署的ai翻译模型进行多种翻译。提供可视化界面、术语表导入、保留词规则、全文一致性记忆。
 
+
+#下载链接
+
+由于包含运行库的文件过大，此处提供百度网盘和google drive云盘两种下载方式
+
+通过百度网盘分享的文件：LocalTranslation_v1.0.0.zip
+
+链接: https://pan.baidu.com/s/11rjCTplMD7rhMEg85rmIHg?pwd=uysu 提取码: uysu 
+
+
+
 A native translation GUI that utilizes a locally deployed AI translation model for various translations. It provides a visual interface, terminology import, word retention rules, and full-text consistency memory.
 
 本项目大量使用ai代码，在翻译细节改进部分进行过大规模的ai代码重构，应该不会有屎山堆积的情况
