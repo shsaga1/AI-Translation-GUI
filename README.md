@@ -15,7 +15,7 @@
 
 A native translation GUI that utilizes a locally deployed AI translation model for various translations. It provides a visual interface, terminology import, word retention rules, and full-text consistency memory.
 
-本项目大量使用ai代码，在翻译细节改进部分进行过大规模的ai代码重构，应该不会有屎山堆积的情况
+本项目使用了ai代码，在翻译细节部分和后续打包期间进行过大规模的ai代码重构。应该不会有屎山堆积的情况
 
 > 此项目重点放在 **视频 / 文件翻译** 场景，尤其优化了 EPUB 的翻译。剩下的部分(网页/文本)现有的浏览器自动翻译功能和翻译软件做的已十分成熟，因此只做了最简单的功能
 
